@@ -1,0 +1,1 @@
+price = my * area + m2 * bedrooms + m3 *age + b
