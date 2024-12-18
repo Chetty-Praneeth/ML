@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib as plt
 def gradient_descent(x,y):
     pass
     m_curr = b_curr=0
